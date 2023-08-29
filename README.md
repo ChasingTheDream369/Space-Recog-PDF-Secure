@@ -19,9 +19,7 @@ Elevate your text formatting to a whole new level with Space-Recog-PDF-Secure, a
 Whether you're a writer, editor, or content creator, Space-Recog-PDF-Secure empowers you to present your words with elegance and finesse. Captivate your readers from the first glance, all while enjoying the convenience of an easy-to-use Python script.
 📚 Example Usage:
 
-bash
-
-python3 Paragraph.py WIDTH < YOUR_TEXT.txt
+```python3 Paragraph.py WIDTH < YOUR_TEXT.txt ```
 
 Simply replace WIDTH with your desired column width and provide your text via the YOUR_TEXT.txt file.
 
