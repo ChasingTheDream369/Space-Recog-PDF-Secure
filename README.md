@@ -3,6 +3,7 @@
 Space-Recog-PDF-Secure: Transforming Text into Artful Prose
 
 Elevate your text formatting to a whole new level with Space-Recog-PDF-Secure, a Python script that crafts paragraphs with a touch of elegance and precision. Gone are the days of uneven margins and awkward spacing – now you can effortlessly transform raw text into beautifully structured content that exudes professionalism and readability.
+
 🚀 Features:
 
 📜 Masterful Margins: Say goodbye to jagged right edges. Space-Recog-PDF-Secure ensures that your text maintains a consistent, aesthetically pleasing alignment by meticulously distributing white spaces.
